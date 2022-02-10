@@ -1,1 +1,1 @@
-# kip-maven-assign
+# kip-maven-assignment
